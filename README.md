@@ -8,7 +8,7 @@ Use:
 import Vue from 'vue';
 import Tooltip from './src/tooltip_bootstrap.js';
 
-Vue.use(vClickOutside)
+Vue.use(Tooltip)
 ```
 
 On template
